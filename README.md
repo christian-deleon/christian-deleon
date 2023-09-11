@@ -6,5 +6,6 @@
   <br/>
   <div><a href="https://christiandeleon.me/"><strong>Visit my Website</strong></a></div>
   <br/>
-  <div><a href="https://gitlab.com/christian-deleon"><strong>I've moved all my projects to GitLab</strong></a></div>
+  <h3>I moved all my projects to GitLab</h3>
+  <div><a href="https://gitlab.com/christian-deleon"><strong>GitLab Profile</strong></a></div>
 </div>
