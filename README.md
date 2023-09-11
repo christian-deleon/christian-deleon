@@ -4,7 +4,7 @@
   </a>
   <br/>
   <br/>
-  <div><a href="https://christiandeleon.me/"><strong>Visit my Portfolio Website</strong></a></div>
+  <div><a href="https://christiandeleon.me/"><strong>Visit my Website</strong></a></div>
   <br/>
-  <div><a href="https://github.com/christian-deleon/portfolio-iac"><strong>Visit my Portfolio Infrastructure as Code Repository</strong></a></div>
+  <div><a href="https://gitlab.com/christian-deleon"><strong>I've moved all my projects to GitLab</strong></a></div>
 </div>
