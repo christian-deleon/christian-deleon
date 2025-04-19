@@ -4,5 +4,5 @@
   </a>
   <br/>
   <br/>
-  <div><a href="https://christian-deleon.com/"><strong>Visit my Website</strong></a></div>
+  <div><a href="https://christian.deleon.xyz/"><strong>Visit my Website</strong></a></div>
 </div>
