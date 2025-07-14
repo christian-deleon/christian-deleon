@@ -2,7 +2,7 @@
 <table style="border: none; border-collapse: collapse;">
 <tr>
 <td style="border: none; padding: 0 20px;" align="center">
-  <a href="https://christian-deleon.com/">
+  <a href="https://christian.deleon.xyz/">
   <img src="images/logo192.png" alt="Logo" height="80">
   </a>
   <br/>
