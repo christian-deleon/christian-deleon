@@ -1,4 +1,7 @@
 <div align="center">
+  <!-- Greeting -->
+  <h2>Hello 👋🏼, my name is Christian De Leon, DevOps Engineer.</h2>
+  <br/>
   <!-- Logo and site link at top center -->
   <a href="https://christian.deleon.xyz/">
     <img src="images/logo192.png" alt="Logo" height="80">
