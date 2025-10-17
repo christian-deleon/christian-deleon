@@ -3,12 +3,12 @@
   <h2>Hello 👋🏼, my name is Christian De Leon, DevOps Engineer.</h2>
   <br/>
   <!-- Logo and site link at top center -->
-  <a href="https://christian.deleon.xyz/">
+  <a href="https://christian.deleon.me/">
     <img src="images/logo192.png" alt="Logo" height="80">
   </a>
   <br/>
   <br/>
-  <div><a href="https://christian.deleon.xyz/"><strong>Visit my Website</strong></a></div>
+  <div><a href="https://christian.deleon.me/"><strong>Visit my Website</strong></a></div>
   <br/>
   <br/>
 
